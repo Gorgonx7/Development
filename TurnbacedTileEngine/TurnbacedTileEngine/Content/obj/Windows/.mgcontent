@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/Land.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/Blank.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/Power.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/Post.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/Rough.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/B2.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/B3.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/B4.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/B5.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/B6.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/B1.jpg</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/Outline.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/Times New Roman.spritefont</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/interface.png</File>
+    <File>d:/users/james gordon/documents/visual studio 2015/Projects/TurnbacedTileEngine/TurnbacedTileEngine/Content/bar.png</File>
+  </SourceFiles>
+</SourceFileCollection>
